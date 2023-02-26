@@ -1,0 +1,5 @@
+*.exe
+*.class
+*.main
+*.dump
+.vscode

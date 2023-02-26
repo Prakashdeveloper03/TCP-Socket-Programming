@@ -1,0 +1,4 @@
+*.c linguist-detectable=false
+*.ex linguist-detectable=false
+*.py linguist-detectable=false
+*.rb linguist-detectable=false
